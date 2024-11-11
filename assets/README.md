@@ -1,1 +1,11 @@
+# Selaura Assets
+### Do not use, reproduce, or copy for any third-party use unless it is related to Selaura Client or any of its subsidiaries.
 
+#### Normal Logo
+![Selaura Logo](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo.png)
+
+#### Christmas Logo
+![Selaura Christmas Logo](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo-Christmas.png)
+
+#### Halloween Logo
+![Selaura Halloween Logo](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo-Halloween.png)
