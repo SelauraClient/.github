@@ -9,3 +9,9 @@
 
 #### Halloween Logo
 ![Selaura Halloween Logo](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo-Halloween.png)
+
+#### Christmas Logo 2
+![Selaura Christmas Logo 2](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo-Christmas2.png)
+
+#### Halloween Logo 2
+![Selaura Halloween Logo 2](https://raw.githubusercontent.com/SelauraClient/.github/refs/heads/main/assets/Selaura-Logo-Halloween2.png)
